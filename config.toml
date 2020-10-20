@@ -1,6 +1,6 @@
 # Site settings
 baseURL =  "https://yiding-carson.netlify.app/"
-languageCode = "en-us""
+languageCode = "en-us"
 title = "Portfolio website for Yiding Carson"
 theme = "forty"
 
