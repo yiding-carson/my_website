@@ -92,20 +92,20 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Data modelling"
-      subtitle = "Homework1"
+      title = "Data visualization"
+      subtitle = "Insurance Risks of Smokers"
       image = "1.jpg"
       url = "Assignment3.html"
 
     [[params.tiles.showcase]]
-      title = "seeing data"
-      subtitle = "Homework2"
+      title = "Time series analysis"
+      subtitle = "Egg depositions of Lake Huron Bloasters"
       image = "2.png"
       url = "Assignment2.html"
 
     [[params.tiles.showcase]]
-      title = "Statistical Inference"
-      subtitle = "Homework3"
+      title = "Statistical analysis"
+      subtitle = "GDP and Infant Mortality"
       image = "3.png"
       url = "Assignment.html"
 
